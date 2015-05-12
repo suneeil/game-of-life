@@ -28,6 +28,7 @@ public enum Cell {
     }
 
     public String getSymbol() {
+    	//Adding a comment in the getSymbol()
         return symbol;
     }
 }
